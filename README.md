@@ -4,6 +4,9 @@ A unified Streamlit workspace with **chat, scraping, analyzing, paraphrasing, an
 
 ---
 
+🚀 Live Project Link: 
+https://content-intelligence-platform.streamlit.app/
+
 ## ✨ What's New (v3 — this revision)
 
 ### 🐛 Critical Bugs Fixed
