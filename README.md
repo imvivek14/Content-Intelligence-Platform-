@@ -74,7 +74,7 @@ If `streamlit` isn't recognized as a command, run it through Python instead:
 python -m streamlit run Home.py
 ```
 
-The app opens at http://localhost:8501.
+The app opens at https://content-intelligence-platform.streamlit.app/.
 
 ---
 
